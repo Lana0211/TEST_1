@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Advertisements>
+	<Ad>
+		<ImageUrl>pic\paris.jpg</ImageUrl>
+		<NavigateUrl>https://www.youtube.com/watch?v=eBGIQ7ZuuiU</NavigateUrl>
+		<AlternateText>
+			Paris and Paris
+		</AlternateText>
+		<Impressions>20</Impressions>
+		<Keyword>Paris</Keyword>
+	</Ad>
+
+	<Ad>
+		<ImageUrl>pic\Taiwan.jpg</ImageUrl>
+		<NavigateUrl>https://www.youtube.com/watch?v=eBGIQ7ZuuiU</NavigateUrl>
+		<AlternateText>Taiwan N0.1!!!</AlternateText>
+		<Impressions>20</Impressions>
+		<Keyword>Taiwan</Keyword>
+	</Ad>
+
+	<Ad>
+		<ImageUrl>pic\Turkey.jpg</ImageUrl>
+		<NavigateUrl>https://www.youtube.com/watch?v=eBGIQ7ZuuiU</NavigateUrl>
+		<AlternateText>Turkey is yummy.</AlternateText>
+		<Impressions>20</Impressions>
+		<Keyword>Turkey</Keyword>
+	</Ad>
+
+	<Ad>
+		<ImageUrl>pic\Japan.jpg</ImageUrl>
+		<NavigateUrl>https://www.youtube.com/watch?v=eBGIQ7ZuuiU</NavigateUrl>
+		<AlternateText>Japan disiki</AlternateText>
+		<Impressions>20</Impressions>
+		<Keyword>Japan</Keyword>
+	</Ad>
+</Advertisements>
