@@ -50,7 +50,7 @@
     </style>
 </head>
 <body style="background-image: url('background.jpg'); background-repeat: no-repeat; background-attachment: fixed; background-position: center center; background-size:cover;">
-    <form id="form1" runat="server">
+    <form id="form3" runat="server">
                     <asp:SqlDataSource ID="CountryDataSource" runat="server" ConnectionString="<%$ ConnectionStrings:ConnectionString %>" SelectCommand="SELECT sp_country FROM countryTable"></asp:SqlDataSource>
                     <asp:GridView ID="viewGridView" runat="server" AutoGenerateColumns="False" DataSourceID="viewDataSource" ForeColor="White" Visible="False">
                         <Columns>
